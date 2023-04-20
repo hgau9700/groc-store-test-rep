@@ -24,18 +24,18 @@
 CSS:
 
 body {
-	margin: 0;
-	padding: 0;
+	margin: 0 auto;
+	padding: 2px;
 	font-family: Arial;
 }
 header {
-	background-color: #F9A825;
-	padding: 20px;
+	background-color: #F9A105;
+	padding: 18px;
 	text-align: center;
 }
 h1 {
 	margin: 0;
-	color: white;
+	color: black;
 	font-size: 36px;
 }
 main {
@@ -58,5 +58,5 @@ ul {
 	margin: 0;
 }
 li {
-	margin-bottom: 10px;
+	margin-bottom: 12px;
 }
